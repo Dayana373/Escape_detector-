@@ -41,5 +41,5 @@
 
 ### 👩‍💻 Автор
 Диана Сергеева  
-Junior Data Scientist  
+Data Scientist | Выпускница Яндекс.Практикум  
 GitHub: [@Dayana373](https://github.com/Dayana373)
