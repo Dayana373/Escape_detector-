@@ -34,7 +34,7 @@
 [Открыть на GitHub](https://github.com/Dayana373/Escape_detector/blob/main/escape_detector.ipynb)
 
 ### 📁 Данные
-Данные HR-агентства (анонимизированные):
+Данные HR-агентства:
 
 [Скачать датасет](https://disk.yandex.ru/d/nmJSwXRCamJsSw)
 
